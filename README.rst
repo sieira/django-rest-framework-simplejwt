@@ -12,12 +12,6 @@ Simple JWT
 .. image:: https://readthedocs.org/projects/django-rest-framework-simplejwt/badge/?version=latest
   :target: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/
 
-Abstract
---------
-
-Simple JWT is a JSON Web Token authentication plugin for the `Django REST
-Framework <http://www.django-rest-framework.org/>`__.
-
 For full documentation, visit `django-rest-framework-simplejwt.readthedocs.io
 <https://django-rest-framework-simplejwt.readthedocs.io/en/latest/>`__.
 
